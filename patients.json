@@ -1,0 +1,152 @@
+{
+    "P001": {
+        "name": "Rahul Sharma",
+        "city": "Delhi",
+        "age": 25,
+        "gender": "male",
+        "height": 175,
+        "weight": 70,
+        "marriage_status": "single",
+        "allergies": ["Dust"],
+        "contact_details": {
+            "email": "rahul@hdfc.com",
+            "ph_no": "9876543210"
+        }
+    },
+
+    "P002": {
+        "name": "Anjali Verma",
+        "city": "Mumbai",
+        "age": 30,
+        "gender": "female",
+        "height": 160,
+        "weight": 55,
+        "marriage_status": "married",
+        "allergies": ["Pollen"],
+        "contact_details": {
+            "email": "anjali@icici.com",
+            "ph_no": "9876543211"
+        }
+    },
+
+    "P003": {
+        "name": "Amit Kumar",
+        "city": "Lucknow",
+        "age": 28,
+        "gender": "male",
+        "height": 180,
+        "weight": 82,
+        "marriage_status": "single",
+        "allergies": [],
+        "contact_details": {
+            "email": "amit@hdfc.com",
+            "ph_no": "9876543212"
+        }
+    },
+
+    "P004": {
+        "name": "Sneha Gupta",
+        "city": "Jaipur",
+        "age": 24,
+        "gender": "female",
+        "height": 165,
+        "weight": 60,
+        "marriage_status": "single",
+        "allergies": ["Peanuts"],
+        "contact_details": {
+            "email": "sneha@icici.com",
+            "ph_no": "9876543213"
+        }
+    },
+
+    "P005": {
+        "name": "Vikram Singh",
+        "city": "Chandigarh",
+        "age": 35,
+        "gender": "male",
+        "height": 172,
+        "weight": 90,
+        "marriage_status": "married",
+        "allergies": [],
+        "contact_details": {
+            "email": "vikram@hdfc.com",
+            "ph_no": "9876543214"
+        }
+    },
+
+    "P006": {
+        "name": "Priya Mehta",
+        "city": "Pune",
+        "age": 27,
+        "gender": "female",
+        "height": 162,
+        "weight": 52,
+        "marriage_status": "single",
+        "allergies": ["Milk"],
+        "contact_details": {
+            "email": "priya@icici.com",
+            "ph_no": "9876543215"
+        }
+    },
+
+    "P007": {
+        "name": "Rohan Kapoor",
+        "city": "Noida",
+        "age": 41,
+        "gender": "male",
+        "height": 178,
+        "weight": 84,
+        "marriage_status": "married",
+        "allergies": ["Dust", "Pollen"],
+        "contact_details": {
+            "email": "rohan@hdfc.com",
+            "ph_no": "9876543216"
+        }
+    },
+
+    "P008": {
+        "name": "Neha Arora",
+        "city": "Gurgaon",
+        "age": 22,
+        "gender": "female",
+        "height": 158,
+        "weight": 49,
+        "marriage_status": "single",
+        "allergies": [],
+        "contact_details": {
+            "email": "neha@icici.com",
+            "ph_no": "9876543217"
+        }
+    },
+
+    "P009": {
+        "name": "Suresh Patel",
+        "city": "Ahmedabad",
+        "age": 63,
+        "gender": "male",
+        "height": 170,
+        "weight": 75,
+        "marriage_status": "married",
+        "allergies": ["Gluten"],
+        "contact_details": {
+            "email": "suresh@hdfc.com",
+            "ph_no": "9876543218",
+            "emergency": "9876500000"
+        }
+    },
+
+    "P010": {
+        "name": "Kavita Joshi",
+        "city": "Bhopal",
+        "age": 45,
+        "gender": "female",
+        "height": 167,
+        "weight": 68,
+        "marriage_status": "married",
+        "allergies": ["Seafood"],
+        "contact_details": {
+            "email": "kavita@icici.com",
+            "ph_no": "9876543219"
+        }
+    }
+}
