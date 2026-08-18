@@ -76,7 +76,7 @@ pip install -r requirements.txt
 Start the FastAPI server using:
 
 ```bash
-uvicorn main:app --reload
+python -m uvicorn main:app --reload
 ```
 
 The API will run at:
